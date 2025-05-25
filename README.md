@@ -25,8 +25,6 @@ This is a simple **GUI Calculator** built using Python's `tkinter` library. It p
 
 ![GUI Calculator Screenshot](screenshot.png)
 
-> *Add a screenshot of your calculator named `screenshot.png` in the project directory for this image to show.*
-
 ---
 
 ## 🚀 Getting Started
@@ -41,30 +39,12 @@ No external libraries are needed. Tkinter is included in the standard Python dis
 
 ### How to Run
 
-1. Clone this repository or download the script file.
-2. 
+1. Clone this repository or download the script file.(https://github.com/2000pawan/Calculator.git)
 
-3. Run the script:
+2. Run the script:
    ```bash
    python calculator.py
-## 📁 Project Structure
 
-calculator_project/
-
-│
-├── calculator.py         # Main Python file with Tkinter code
-├── README.md             # Project documentation
-└── screenshot.png        # (Optional) Screenshot of the calculator
-
-## 📌 Notes
-
-This calculator performs only simple two-operand calculations.
-
-Use the = button to finalize operations.
-
-For learning purposes, each button has a separate function.
-
-Handles division by zero with a popup message box.
 
 👨‍💻 Author
 
