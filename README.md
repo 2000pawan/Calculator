@@ -46,3 +46,21 @@ No external libraries are needed. Tkinter is included in the standard Python dis
 2. Run the script:
    ```bash
    python calculator.py
+## 📁 Project Structure
+
+calculator_project/
+│
+├── calculator.py         # Main Python file with Tkinter code
+├── README.md             # Project documentation
+└── screenshot.png        # (Optional) Screenshot of the calculator
+📌 Notes
+This calculator performs only simple two-operand calculations.
+
+Use the = button to finalize operations.
+
+For learning purposes, each button has a separate function.
+
+Handles division by zero with a popup message box.
+
+👨‍💻 Author
+PAWAN YADAV
