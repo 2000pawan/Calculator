@@ -43,7 +43,7 @@ No external libraries are needed. Tkinter is included in the standard Python dis
 
 2. Run the script:
    ```bash
-   python calculator.py
+   python Calculator.py
 
 
 👨‍💻 Author
